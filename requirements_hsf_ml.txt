@@ -1,0 +1,8 @@
+# Python 3.14 environment for om_rishabh_hsf_classification.ipynb
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+uproot==5.7.7
+ipython==9.17.1
+threadpoolctl==3.7.0
