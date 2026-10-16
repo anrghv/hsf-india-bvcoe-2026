@@ -3,6 +3,17 @@
 
 ---
 
+## Weights you can use:
+
+sample Higgs; weight = 0.010778
+
+sample DY; weight = 1.588077
+
+sample WW; weight = 0.067506
+
+sample Top; weight = 0.112716
+
+
 ## 1. Quick primer
 
 - **LHC / CMS:** Protons collide at nearly the speed of light. The CMS detector is a huge "camera" that records what flies out. Each collision is an **event** (one row in your dataset).
