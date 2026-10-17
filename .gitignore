@@ -30,7 +30,7 @@ ENV/
 # =========================
 
 # ROOT output files
-*.root
+ *.root
 
 # ROOT temporary files
 *.root.tmp
